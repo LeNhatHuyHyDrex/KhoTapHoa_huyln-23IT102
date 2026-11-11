@@ -1,0 +1,47 @@
+{
+  "firestore": {
+    "database": "(default)",
+    "location": "asia-southeast1",
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "auth": {
+    "providers": {
+      "emailPassword": true
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "khotaphoa-huyln23it102",
+          "appId": "1:445139701763:android:a69ada7b65be512e0b3e36",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "khotaphoa-huyln23it102",
+          "configurations": {
+            "android": "1:445139701763:android:a69ada7b65be512e0b3e36",
+            "web": "1:445139701763:web:9f8b74a31a240ddc0b3e36"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445139701763",
+    "project_id": "khotaphoa-huyln23it102",
+    "storage_bucket": "khotaphoa-huyln23it102.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445139701763:android:a69ada7b65be512e0b3e36",
+        "android_client_info": {
+          "package_name": "com.huyln23it102.kho_tap_hoa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKS4ppBq9pz1fzTlA1jnpu9unHJjCuT4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
