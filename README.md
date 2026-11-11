@@ -3,6 +3,7 @@
 Bài giữa kỳ môn Lập trình đa nền tảng. App quản lý sản phẩm cho phân hệ admin của một tiệm tạp hóa nhỏ, viết bằng **Flutter**, dữ liệu nằm trên **Firebase Cloud Firestore**, đăng nhập bằng **Firebase Authentication**. Chạy được trên web và Android.
 
 - Sinh viên: Lê Nhật Huy (huyln) - 23IT102
+- Báo cáo: [`BaoCao_huyln-23IT102.docx`](BaoCao_huyln-23IT102.docx)
 - Bản web: https://khotaphoa-huyln23it102.web.app
 - File APK: [`release/KhoTapHoa_huyln-23IT102.apk`](release/KhoTapHoa_huyln-23IT102.apk)
 - File CSDL xuất ra: [`database/sanpham.json`](database/sanpham.json)
