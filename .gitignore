@@ -50,3 +50,6 @@ app.*.map.json
 # Firebase
 .firebase/
 firebase-debug.log
+
+# file khoa tam cua Word
+~$*
